@@ -6,6 +6,92 @@
 - 🟢 **OPTIONAL** - Nice to have, learn based on specialization/time
 
 ---
+# 📊 Data Science Tech Stack
+
+A comprehensive list of essential data science technologies, categorized by learning priority.
+
+---
+
+### 🔴 CRITICAL
+*Must-learn, non-negotiable skills for most Data Science roles.*
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-D94848?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-D94848?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NumPy-D94848?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-D94848?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Matplotlib-D94848?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-D94848?style=for-the-badge" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-D94848?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="httpshttps://img.shields.io/badge/XGBoost-D94848?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/TensorFlow-D94848?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D94848?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+  <img src="https://img.shields.io/badge/PyTorch-D94848?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/spaCy-D94848?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-D94848?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/OpenCV-D94848?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/torchvision-D94848?style=for-the-badge&logo=pytorch&logoColor=white" alt="torchvision"/>
+  <img src="https://img.shields.io/badge/Git-D94848?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-D94848?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-D94848?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/FastAPI-D94848?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-D94848?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-D94848?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Jupyter-D94848?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+</div>
+
+---
+
+### 🟡 IMPORTANT
+*Highly valuable skills that significantly boost your profile.*
+<div align="center">
+  <img src="https://img.shields.io/badge/Bash-E69A4A?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/>
+  <img src="https://img.shields.io/badge/Plotly-E69A4A?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+  <img src="https://img.shields.io/badge/Tableau-E69A4A?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+  <img src="https://img.shields.io/badge/Power_BI-E69A4A?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/LightGBM-E69A4A?style=for-the-badge" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/NLTK-E69A4A?style=for-the-badge" alt="NLTK"/>
+  <img src="https://img.shields.io/badge/LangChain-E69A4A?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenAI-E69A4A?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Pillow-E69A4A?style=for-the-badge" alt="Pillow"/>
+  <img src="https://img.shields.io/badge/Albumentations-E69A4A?style=for-the-badge" alt="Albumentations"/>
+  <img src="https://img.shields.io/badge/Flask-E69A4A?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Streamlit-E69A4A?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  <img src="https://img.shields.io/badge/Gradio-E69A4A?style=for-the-badge" alt="Gradio"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-E69A4A?style=for-the-badge&logo=weightsandbiases&logoColor=white" alt="Weights & Biases"/>
+  <img src="https://img.shields.io/badge/MLflow-E69A4A?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/DVC-E69A4A?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-E69A4A?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E69A4A?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
+  <img src="https://img.shields.io/badge/Databricks-E69A4A?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks"/>
+  <img src="https://img.shields.io/badge/MongoDB-E69A4A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-E69A4A?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/Pinecone-E69A4A?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-E69A4A?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
+  <img src="https://img.shields.io/badge/pytest-E69A4A?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-E69A4A?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Google_Colab-E69A4A?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/Kaggle-E69A4A?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  <img src="https://img.shields.io/badge/SHAP-E69A4A?style=for-the-badge" alt="SHAP"/>
+  <img src="https://img.shields.io/badge/statsmodels-E69A4A?style=for-the-badge" alt="statsmodels"/>
+</div>
+
+---
+
+### 🟢 OPTIONAL
+*Specialized or nice-to-have skills for specific roles or advanced projects.*
+<div align="center">
+  <img src="https://img.shields.io/badge/R-4DAF4A?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Polars-4DAF4A?style=for-the-badge" alt="Polars"/>
+  <img src="https://img.shields.io/badge/CatBoost-4DAF4A?style=for-the-badge" alt="CatBoost"/>
+  <img src="https://img.shields.io/badge/JAX-4DAF4A?style=for-the-badge" alt="JAX"/>
+  <img src="https://img.shields.io/badge/Kubernetes-4DAF4A?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-4DAF4A?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/Apache_Hadoop-4DAF4A?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Apache Hadoop"/>
+  <img src="https://img.shields.io/badge/dbt-4DAF4A?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-4DAF4A?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka"/>
+</div>
+
+---
 
 # 1️⃣ PROGRAMMING LANGUAGES
 
