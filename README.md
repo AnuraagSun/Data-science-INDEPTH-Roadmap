@@ -1123,22 +1123,4 @@ Save this and check off as you learn:
 - [ ] pytest
 
 ---
-
-# 🚀 START HERE (Week 1 Stack)
-
-**Download/Install TODAY:**
-1. Anaconda (Python distribution)
-2. VS Code (code editor)
-3. Git
-4. Create GitHub account
-5. PostgreSQL (for SQL practice)
-
-**Learn THIS week:**
-1. Python basics
-2. Git basics
-3. Jupyter Notebook basics
-
-
----
-
 This is your complete tech stack. Bookmark this list and revisit every month to track progress!
