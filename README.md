@@ -8,8 +8,8 @@
 ---
 # 📊 Data Science Tech Stack
 
-A comprehensive list of essential data science technologies, categorized by learning priority.
-
+_GENERAL OVERVIEW OF ALL THE TECH STACK YOU WILL NEED TO LEARN
+_
 ---
 
 ### 🔴 CRITICAL
