@@ -21,7 +21,7 @@ _GENERAL OVERVIEW OF ALL THE TECH STACK NEED TO LEARN_
   <img src="https://img.shields.io/badge/Matplotlib-D94848?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
   <img src="https://img.shields.io/badge/Seaborn-D94848?style=for-the-badge" alt="Seaborn"/>
   <img src="https://img.shields.io/badge/Scikit--learn-D94848?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-  <img src="httpshttps://img.shields.io/badge/XGBoost-D94848?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/XGBoost-D94848?style=for-the-badge&logo=xgboost&logoColor=white" alt="XGBoost"/>
   <img src="https://img.shields.io/badge/TensorFlow-D94848?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Keras-D94848?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
   <img src="https://img.shields.io/badge/PyTorch-D94848?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
